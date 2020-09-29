@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "name": "The course of Fire",
+      "price": 85,
+      "id": 1
+    },
+    {
+      "name": "new lesson ",
+      "price": 89,
+      "id": 2
+    },
+    {
+      "name": "new course",
+      "price": 96,
+      "id": 3
+    },
+    {
+      "name": "ma sanga",
+      "price": 123,
+      "id": 4
+    }
+  ]
+}
